@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.items_details {
+  padding: 10px;
+}
+
+table {
+  border-collapse: collapse;
+  text-align: center;
+}
+
+td,
+th {
+  border: 1px solid black;
+  padding: 0.5rem;
+  text-align: left;
+}
